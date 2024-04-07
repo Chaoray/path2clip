@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/x64
+/path2clip/x64
+/.vs/path2clip
